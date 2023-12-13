@@ -1,3 +1,4 @@
+import { useMemo } from 'react'
 import { MovieCard } from "./MovieCard";
 
 interface ContentProps {
